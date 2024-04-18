@@ -34,7 +34,6 @@
 				<Item Name="Validate Semaphore Size.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Validate Semaphore Size.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
-			<Item Name="AddS-Go-Get.vi" Type="VI" URL="../Utility VIs/AddS-Go-Get.vi"/>
 			<Item Name="Configure AIN U6.vi" Type="VI" URL="../Utility VIs/Configure AIN U6.vi"/>
 			<Item Name="LabJack_init.vi" Type="VI" URL="../LifterSUBVis/LabJack_init.vi"/>
 			<Item Name="LabJackU6_Read.vi" Type="VI" URL="../LifterSUBVis/LabJackU6_Read.vi"/>
@@ -43,6 +42,7 @@
 			</Item>
 			<Item Name="LJUD_AddRequestS.vi" Type="VI" URL="../LabJackUD DLL Functions/LJUD_AddRequestS.vi"/>
 			<Item Name="LJUD_AddRequestSS.vi" Type="VI" URL="../LabJackUD DLL Functions/LJUD_AddRequestSS.vi"/>
+			<Item Name="LJUD_eGetS.vi" Type="VI" URL="../LabJackUD DLL Functions/LJUD_eGetS.vi"/>
 			<Item Name="LJUD_GetNextResult.vi" Type="VI" URL="../LabJackUD DLL Functions/LJUD_GetNextResult.vi"/>
 			<Item Name="LJUD_GoOne.vi" Type="VI" URL="../LabJackUD DLL Functions/LJUD_GoOne.vi"/>
 			<Item Name="LJUD_OpenLabJackS.vi" Type="VI" URL="/C/Users/Vibodha/Downloads/Cryo-Control-main (1)/Cryo-Control-main/LabJackU3/LabJackUD DLL Functions/LJUD_OpenLabJackS.vi"/>

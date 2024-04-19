@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Lifter_main.vi" Type="VI" URL="../Lifter_main.vi"/>
 		<Item Name="Lifter_motor.lvclass" Type="LVClass" URL="../LifterSUBVis/Motor Class/Lifter_motor.lvclass"/>
+		<Item Name="Lifter_store_DATAArray.vi" Type="VI" URL="../LifterSUBVis/Lifter_store_DATAArray.vi"/>
 		<Item Name="LifterTCP.lvclass" Type="LVClass" URL="../LifterSUBVis/TCP Class/LifterTCP.lvclass"/>
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">

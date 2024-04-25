@@ -45,6 +45,7 @@
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
 			<Item Name="Configure AIN U6.vi" Type="VI" URL="../Utility VIs/Configure AIN U6.vi"/>
+			<Item Name="Create_waveform.vi" Type="VI" URL="../LifterSUBVis/Create_waveform.vi"/>
 			<Item Name="LabJack_init.vi" Type="VI" URL="../LifterSUBVis/LabJack_init.vi"/>
 			<Item Name="LabJackU6_Read.vi" Type="VI" URL="../LifterSUBVis/LabJackU6_Read.vi"/>
 			<Item Name="labjackud.dll" Type="Document" URL="labjackud.dll">

@@ -14,6 +14,7 @@
 		<Item Name="Lifter_motor.lvclass" Type="LVClass" URL="../LifterSUBVis/Motor Class/Lifter_motor.lvclass"/>
 		<Item Name="Lifter_store_DATAArray.vi" Type="VI" URL="../LifterSUBVis/Lifter_store_DATAArray.vi"/>
 		<Item Name="LifterTCP.lvclass" Type="LVClass" URL="../LifterSUBVis/TCP Class/LifterTCP.lvclass"/>
+		<Item Name="NMR Data.lvclass" Type="LVClass" URL="../LifterSUBVis/NMR Data Class/NMR Data.lvclass"/>
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -26,6 +27,7 @@
 				<Item Name="GetNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/GetNamedSemaphorePrefix.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="Not A Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Not A Semaphore.vi"/>
 				<Item Name="Obtain Semaphore Reference.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Obtain Semaphore Reference.vi"/>
@@ -45,6 +47,7 @@
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
 			<Item Name="Configure AIN U6.vi" Type="VI" URL="../Utility VIs/Configure AIN U6.vi"/>
+			<Item Name="Controller decision.ctl" Type="VI" URL="../LifterSUBVis/NMR Data Class/Controller decision.ctl"/>
 			<Item Name="Create_waveform.vi" Type="VI" URL="../LifterSUBVis/Create_waveform.vi"/>
 			<Item Name="LabJack_init.vi" Type="VI" URL="../LifterSUBVis/LabJack_init.vi"/>
 			<Item Name="LabJackU6_Read.vi" Type="VI" URL="../LifterSUBVis/LabJackU6_Read.vi"/>

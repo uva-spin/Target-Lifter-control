@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -12,10 +13,10 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Lifter_main.vi" Type="VI" URL="../Lifter_main.vi"/>
 		<Item Name="Lifter_motor.lvclass" Type="LVClass" URL="../LifterSUBVis/Motor Class/Lifter_motor.lvclass"/>
-		<Item Name="Lifter_store_DATAArray.vi" Type="VI" URL="../LifterSUBVis/Lifter_store_DATAArray.vi"/>
 		<Item Name="LifterTCP.lvclass" Type="LVClass" URL="../LifterSUBVis/TCP Class/LifterTCP.lvclass"/>
 		<Item Name="NMR Data.lvclass" Type="LVClass" URL="../LifterSUBVis/NMR Data Class/NMR Data.lvclass"/>
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
+		<Item Name="Lifter_store_DATAArray.vi" Type="VI" URL="../LifterSUBVis/Lifter_store_DATAArray.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>

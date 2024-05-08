@@ -17,6 +17,7 @@
 		<Item Name="NMR Data.lvclass" Type="LVClass" URL="../LifterSUBVis/NMR Data Class/NMR Data.lvclass"/>
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="Lifter_store_DATAArray.vi" Type="VI" URL="../LifterSUBVis/Lifter_store_DATAArray.vi"/>
+		<Item Name="Generate_insert cup locations .vi" Type="VI" URL="../Utility VIs/Generate_insert cup locations .vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -46,6 +47,9 @@
 				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
 				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
 				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
+				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
+				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 			</Item>
 			<Item Name="AddS-Go-Get.vi" Type="VI" URL="../Utility VIs/AddS-Go-Get.vi"/>
 			<Item Name="Configure AIN U6.vi" Type="VI" URL="../Utility VIs/Configure AIN U6.vi"/>
@@ -68,6 +72,7 @@
 			<Item Name="LJUD_StringToConstant.vi" Type="VI" URL="../LabJackUD DLL Functions/LJUD_StringToConstant.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Step_ADC_Comparison.vi" Type="VI" URL="../LifterSUBVis/Step_ADC_Comparison.vi"/>
+			<Item Name="Write to config.vi" Type="VI" URL="../LifterSUBVis/Write to config.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

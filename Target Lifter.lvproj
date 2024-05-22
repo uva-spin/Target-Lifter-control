@@ -18,6 +18,8 @@
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="Lifter_store_DATAArray.vi" Type="VI" URL="../LifterSUBVis/Lifter_store_DATAArray.vi"/>
 		<Item Name="Generate_insert cup locations .vi" Type="VI" URL="../Utility VIs/Generate_insert cup locations .vi"/>
+		<Item Name="Read inserts profiles.vi" Type="VI" URL="../LifterSUBVis/Read inserts profiles.vi"/>
+		<Item Name="Test_Calib.vi" Type="VI" URL="../LifterSUBVis/Test_Calib.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -72,7 +74,8 @@
 			<Item Name="LJUD_StringToConstant.vi" Type="VI" URL="../LabJackUD DLL Functions/LJUD_StringToConstant.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Step_ADC_Comparison.vi" Type="VI" URL="../LifterSUBVis/Step_ADC_Comparison.vi"/>
-			<Item Name="Write to config.vi" Type="VI" URL="../LifterSUBVis/Write to config.vi"/>
+			<Item Name="Write to lifter config.vi" Type="VI" URL="../LifterSUBVis/Write to lifter config.vi"/>
+			<Item Name="Read lifter config.vi" Type="VI" URL="../LifterSUBVis/Read lifter config.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

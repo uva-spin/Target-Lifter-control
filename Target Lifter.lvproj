@@ -20,6 +20,8 @@
 		<Item Name="Generate_insert cup locations .vi" Type="VI" URL="../Utility VIs/Generate_insert cup locations .vi"/>
 		<Item Name="Read inserts profiles.vi" Type="VI" URL="../LifterSUBVis/Read inserts profiles.vi"/>
 		<Item Name="Test_Calib.vi" Type="VI" URL="../LifterSUBVis/Test_Calib.vi"/>
+		<Item Name="Write to lifter config_Running info.vi" Type="VI" URL="../LifterSUBVis/Write to lifter config_Running info.vi"/>
+		<Item Name="Read lifter config_Running info.vi" Type="VI" URL="../LifterSUBVis/Read lifter config_Running info.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -76,6 +78,8 @@
 			<Item Name="Step_ADC_Comparison.vi" Type="VI" URL="../LifterSUBVis/Step_ADC_Comparison.vi"/>
 			<Item Name="Write to lifter config.vi" Type="VI" URL="../LifterSUBVis/Write to lifter config.vi"/>
 			<Item Name="Read lifter config.vi" Type="VI" URL="../LifterSUBVis/Read lifter config.vi"/>
+			<Item Name="Read lifter config_Calibration info.vi" Type="VI" URL="../LifterSUBVis/Read lifter config_Calibration info.vi"/>
+			<Item Name="Write to lifter config_Calibration info.vi" Type="VI" URL="../LifterSUBVis/Write to lifter config_Calibration info.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

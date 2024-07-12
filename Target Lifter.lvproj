@@ -54,6 +54,7 @@
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
 			</Item>
 			<Item Name="AddS-Go-Get.vi" Type="VI" URL="../Utility VIs/AddS-Go-Get.vi"/>
 			<Item Name="Configure AIN U6.vi" Type="VI" URL="../Utility VIs/Configure AIN U6.vi"/>
@@ -80,6 +81,9 @@
 			<Item Name="Read lifter config.vi" Type="VI" URL="../LifterSUBVis/Read lifter config.vi"/>
 			<Item Name="Read lifter config_Calibration info.vi" Type="VI" URL="../LifterSUBVis/Read lifter config_Calibration info.vi"/>
 			<Item Name="Write to lifter config_Calibration info.vi" Type="VI" URL="../LifterSUBVis/Write to lifter config_Calibration info.vi"/>
+			<Item Name="tcp_client_lifter.vi" Type="VI" URL="../LifterSUBVis/TCP_IP_Spill counter/tcp_client_lifter.vi"/>
+			<Item Name="Spillcount_tcp_client.vi" Type="VI" URL="../LifterSUBVis/TCP_IP_Spill counter/Spillcount_tcp_client.vi"/>
+			<Item Name="Lifter_create_file To Network.vi" Type="VI" URL="../LifterSUBVis/Lifter_create_file To Network.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
